@@ -1,2 +1,0 @@
-openstack-behaviour-driven-scheduler
-====================================

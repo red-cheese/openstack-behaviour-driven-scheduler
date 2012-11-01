@@ -1,0 +1,11 @@
+[Temp]
+Working on load statistics-based scheduler for OpenStack project
+
+*************
+
+!!!!!!!!!!!!!!!
+PLEASE DON'T PUSH YOUR CHANGES TO THE MASTER BRANCH
+CREATE YOUR OWN BRANCHES
+THE GOLDEN RULE IS:
+ONE BRANCH IS FOR ONE PARTICULAR FEATURE OR BUG FIX
+!!!!!!!!!!!!!!!
